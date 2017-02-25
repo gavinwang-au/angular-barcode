@@ -1,5 +1,5 @@
 {
-  "name": "angular-barcode",
+  "name": "angular-barcode-gw",
   "version": "2.0.0",
   "description": "An angular directive for lindell's JsBarcode",
   "main": "dist/angular-barcode.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/isonet/angular-barcode.git"
+    "url": "git+https://github.com/gavinwang-au/angular-barcode.git"
   },
   "keywords": [
     "angular-barcode",
